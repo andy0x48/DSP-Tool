@@ -1,0 +1,4 @@
+*.log
+/DSP_tool.vcxproj
+/DSP_tool.vcxproj.filters
+/DSP_tool.vcxproj.user
